@@ -1,0 +1,27 @@
+[submodule "libraries/master/liaison"]
+	path = libraries/master/liaison
+	url = https://github.com/ibm-js/liaison.git
+[submodule "libraries/master/delite"]
+	path = libraries/master/delite
+	url = https://github.com/ibm-js/delite.git
+[submodule "libraries/master/deliteful"]
+	path = libraries/master/deliteful
+	url = https://github.com/ibm-js/deliteful.git
+[submodule "libraries/master/decor"]
+	path = libraries/master/decor
+	url = https://github.com/ibm-js/decor.git
+[submodule "libraries/master/ecma402"]
+	path = libraries/master/ecma402
+	url = https://github.com/ibm-js/ecma402.git
+[submodule "libraries/master/dstore"]
+	path = libraries/master/dstore
+	url = https://github.com/SitePen/dstore.git
+[submodule "libraries/master/dpointer"]
+	path = libraries/master/dpointer
+	url = https://github.com/ibm-js/dpointer.git
+[submodule "libraries/master/requirejs-dplugins"]
+	path = libraries/master/requirejs-dplugins
+	url = https://github.com/ibm-js/requirejs-dplugins.git
+[submodule "libraries/master/requirejs-text"]
+	path = libraries/master/requirejs-text
+	url = https://github.com/requirejs/text.git
